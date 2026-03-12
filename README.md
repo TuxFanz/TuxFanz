@@ -10,16 +10,16 @@
 
 ### 🔮 About Me
 
-I Am A Dedicated Technology Enthusiast With a Deep-Seated Passion For Understanding Computing Systems At Their Core. I Focus On Mastering **Bash** To Build **Efficient, Automated Linux Daily Tasks & Workflows** that enhance Productivity And System Performance.
+I am a dedicated technology enthusiast with a deep-seated passion for understanding computing systems at their core. I focus on mastering **Bash** to build **efficient, automated workflows** that enhance productivity and system performance.
 
 * 🔭 **Focusing on:** System Internals & Workflow Optimization.
 * 🚀 **Goal:** "Optimizing operations through technical automation".
 * 💬 **Ask me about:** Shell scripting, Vim motions, or why Arch is my daily driver.
 
-### 🛠️ Technical Arsenal
+### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=bash,arch,linux,vim,neovim,git,github,powershell,discord&theme=dracula" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TuxFanz&theme=dracula&bg_color=00000000&hide_border=true" width="100%" />
 </div>
 
 ### 📊 GitHub Analytics
