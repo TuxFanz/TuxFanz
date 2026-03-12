@@ -37,11 +37,11 @@
 ### 👾 Performance & Contributions
 
 <div align="center">
-  <img src="github-readme-stats.vercel.app/api?username=TuxFanz&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TuxFanz&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false" alt="Streak Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=TuxFanz&theme=shadow_green&hide_border=false" alt="GitHub Stats" />
 </div>
 
 ### 🌌 Random Dev Quote
