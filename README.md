@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/SHELL-BASH-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/EDITOR-VIM-019733?style=for-the-badge&logo=vim&logoColor=white" />
   <img src="https://img.shields.io/badge/VC-GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <br>
   <img src="https://skillicons.dev/icons?i=bash,arch,linux,vim,git,github,neovim" />
 </div>
 
