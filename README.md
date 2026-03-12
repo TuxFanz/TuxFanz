@@ -20,16 +20,10 @@ I Am A Dedicated Technology Enthusiast With a Deep-Seated Passion For Understand
 * 🟣 **Mastering:** ./Bash Shell-Scripting, Vim, Linux
 
 <div align="center">
-  <table align="center">
-    <tr>
-      <td align="center" style="border: 1px solid #cba6f7; border-radius: 10px; padding: 15px; background-color: #00000000;">
         <code><b>$ grep -i "philosophy" /dev/brain</b></code><br>
         <p style="color: #cba6f7; font-family: 'Fira Code', monospace; margin-top: 10px;">
           "First understand the computer, then teach it to work for you."
         </p>
-      </td>
-    </tr>
-  </table>
 </div>
 
 <!--
