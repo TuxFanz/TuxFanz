@@ -2,7 +2,7 @@
   
   ## 💜 Computerphile | Systems Explorer | Linux Enthusiast
   *“First understand the computer, then teach it to work for you.”*
-  
+<br>
   <img src="https://img.shields.io/badge/ARCH_LINUX-1e1e2e?style=for-the-badge&logo=arch-linux&logoColor=cba6f7" /> 
   <img src="https://img.shields.io/badge/BASH_SHELL-1e1e2e?style=for-the-badge&logo=gnu-bash&logoColor=cba6f7" /> 
   <img src="https://img.shields.io/badge/NEOVIM-1e1e2e?style=for-the-badge&logo=neovim&logoColor=cba6f7" /> 
