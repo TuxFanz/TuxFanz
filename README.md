@@ -23,8 +23,6 @@
 * **Objective:** "Optimizing operations through technical automation."
 * **Mastering:** 🍃 `BASH` 🚀 `ARCH LINUX` 🔥 `GIT`
 
----
-
 ### 💜 Tech Stack & Tools
 
 <div align="center">
@@ -36,8 +34,6 @@
   <img src="https://skillicons.dev/icons?i=bash,arch,linux,vim,git,github,neovim" />
 </div>
 
----
-
 ### 👾 Performance & Contributions
 
 <div align="center">
@@ -47,8 +43,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
-
----
 
 ### 🌌 Random Dev Quote
 
