@@ -19,7 +19,7 @@ I Am A Dedicated Technology Enthusiast With a Deep-Seated Passion For Understand
 * 🟣 **Objective:** *Optimizing Operations Through Technical Automation, And Help Solve Problem of People Related to My Skills*
 * 🟣 **Mastering:** ./Bash Shell-Scripting, Vim, Linux
 
-<p align="center">
+<p align="center" height="125">
   <br />
   <kbd><b>“First understand the computer, then teach it to work for you.”</b></kbd>
   <br />
