@@ -4,11 +4,9 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=cba6f7&height=2&width=150&text=" />
   <br />
   <kbd><b>“First understand the computer, then teach it to work for you.”</b></kbd>
   <br />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=cba6f7&height=2&width=150&text=" />
 </p>
 
 
