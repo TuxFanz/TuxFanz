@@ -37,7 +37,7 @@
 ### 👾 Performance & Contributions
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME_HERE&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="github-readme-stats.vercel.app/api?username=TuxFanz&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false" alt="Streak Stats" />
 </div>
 
 <div align="center">
