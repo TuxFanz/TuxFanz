@@ -51,8 +51,8 @@ I Am A Dedicated Technology Enthusiast With a Deep-Seated Passion For Understand
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=KawaiiBash&bg_color=11111b&title_color=cba6f7&text_color=cdd6f4&icon_color=cba6f7&show_icons=true&count_private=true&hide_border=true" height="165px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuxFanz&background=11111b&stroke=11111b&ring=cba6f7&fire=cba6f7&currStreakNum=cdd6f4&currStreakLabel=cba6f7&sideNums=cdd6f4&sideLabels=cba6f7&dates=cdd6f4&hide_border=true" height="165px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KawaiiBash&bg_color=11111b&title_color=cba6f7&text_color=cdd6f4&icon_color=cba6f7&show_icons=true&count_private=true&hide_border=true" height="170px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuxFanz&background=11111b&stroke=11111b&ring=cba6f7&fire=cba6f7&currStreakNum=cdd6f4&currStreakLabel=cba6f7&sideNums=cdd6f4&sideLabels=cba6f7&dates=cdd6f4&hide_border=true" height="170px" />
 
   <br/>
 
