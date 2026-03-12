@@ -25,12 +25,12 @@ I am a dedicated technology enthusiast with a deep-seated passion for understand
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <table border="0">
+  <table border="0" style="border-collapse: collapse; border: none;">
     <tr>
-      <td>
+      <td style="border: none;">
         <img src="https://github-readme-stats.vercel.app/api?username=TuxFanz&theme=dracula&show_icons=true&count_private=true&hide_border=true" height="170px" />
       </td>
-      <td>
+      <td style="border: none;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuxFanz&layout=compact&theme=dracula&hide_border=true" height="170px" />
       </td>
     </tr>
