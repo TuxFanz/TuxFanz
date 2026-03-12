@@ -34,5 +34,5 @@ I am a dedicated technology enthusiast with a deep-seated passion for understand
 ### 🌌 Daily Dev Inspiration
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" width="100%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=000000&quote_color=cba6f7&author_color=cba6f7&text_color=cdd6f4" width="100%" />
 </div>
