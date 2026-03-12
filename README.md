@@ -38,3 +38,6 @@ I am a dedicated technology enthusiast with a deep-seated passion for understand
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuxFanz&background=11111b&stroke=11111b&ring=cba6f7&fire=cba6f7&currStreakNum=cdd6f4&currStreakLabel=cba6f7&sideNums=cdd6f4&sideLabels=cba6f7&dates=cdd6f4&hide_border=true" width="100%" />
 
 </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=cba6f7&height=120&section=footer" width="100%" />
+</div>
