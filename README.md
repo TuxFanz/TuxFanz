@@ -37,7 +37,7 @@ I Am A Dedicated Technology Enthusiast With a Deep-Seated Passion For Understand
 <div align="center">
   <h3>☂️ Teck Stack</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,vim,git,github,archlinux,html,css,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,vim,git,github,arch,html,css,js&theme=dark" />
 </p>
 </div>
 
