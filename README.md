@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=40a02b&height=140&section=header&text=Hello,%20Welcome!&fontSize=50&fontAlignY=50&animation=fadeIn&fontColor=11111b" width="100%" />
   <br><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=28&pause=1000&color=40a02b&center=true&vCenter=true&width=500&lines=Computerphile;Systems+Explorer;Linux+Enthusiast;BashScripting;Code+And+Programming" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=40a02b&center=true&vCenter=true&width=500&lines=Computerphile;Systems+Explorer;Linux+Enthusiast;BashScripting;Code+And+Programming" alt="Typing SVG" />
 </div>
 
 ---
@@ -11,7 +11,7 @@
     <td width="50%" align="center">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMc7wBVJFZisS9v6S0/giphy.gif" width="100%" style="border-radius: 10px;" />
     </td>
-    <td width="50%" valign="middle">
+    <td width="25%" valign="middle">
       <h3 style="color: #40a02b; margin-top: 0;">🌿 About Me</h3>
       <p>
         I am a dedicated <b>Technology Enthusiast</b> with a deep-seated passion for understanding computing systems at their core. 
