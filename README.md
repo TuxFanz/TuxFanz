@@ -43,7 +43,7 @@ I Am A Dedicated Technology Enthusiast With a Deep-Seated Passion For Understand
     <a href="https://en.wikipedia.org/wiki/Git"><img src="https://img.shields.io/badge/Git-1e1e2e?style=for-the-badge&logo=git&logoColor=cba6f7" /></a>
   </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,vim,git,github,arch,html,css,js,py&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,vim,git,github,arch&theme=dark" />
 </p>
 </div>
 
