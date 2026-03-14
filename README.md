@@ -23,8 +23,7 @@
 <p>
         ❄️ <b>Focus:</b> System Internals & BashScripting & Linux/Unix <br>
         💎 <b>Objective:</b> Optimizing Operations Through Technical Automation, And Help Solve Problem of People Related to My Skills<br>
-        <p align="left">
-  <img src="https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v996-015.jpg?w=32&h=32&fit=crop" width="20" height="20" alt="whale" /> 
+        <p align="left"> 
   <b>🐋 Mastering:</b>
   <a href="https://archlinux.org/">
     <img src="https://img.shields.io/badge/Arch_Linux-1e1e2e?style=for-the-badge&logo=arch-linux&logoColor=87CEEB" alt="Arch Linux" valign="middle" />
