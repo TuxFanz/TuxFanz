@@ -26,8 +26,10 @@
         🐋 <b>Mastering:</b><a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch_Linux-1e1e2e?style=for-the-badge&logo=arch-linux&logoColor=87CEEB" alt="Arch Linux" /></a>
     <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash_Shell-1e1e2e?style=for-the-badge&logo=gnu-bash&logoColor=87CEEB" alt="Bash" /></a>
     <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-1e1e2e?style=for-the-badge&logo=git&logoColor=87CEEB" alt="Git" /></a>
+  <!--
     <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python_3-1e1e2e?style=for-the-badge&logo=python&logoColor=87CEEB" alt="Python" /></a>
       </p>
+-->
 
 <div align="center">
   <code><b>$ grep -i "philosophy" /dev/brain</b></code><br>
