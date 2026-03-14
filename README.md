@@ -23,15 +23,17 @@
 <p>
         ❄️ <b>Focus:</b> System Internals & BashScripting & Linux/Unix <br>
         💎 <b>Objective:</b> Optimizing Operations Through Technical Automation, And Help Solve Problem of People Related to My Skills<br>
-        🐋 <b>Mastering:</b><p align="left">
+        <p align="left">
+  <img src="https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v996-015.jpg?w=32&h=32&fit=crop" width="20" height="20" alt="whale" /> 
+  <b>🐋 Mastering:</b>
   <a href="https://archlinux.org/">
-    <img src="https://img.shields.io/badge/Arch_Linux-1e1e2e?style=for-the-badge&logo=arch-linux&logoColor=87CEEB" alt="Arch Linux" />
+    <img src="https://img.shields.io/badge/Arch_Linux-1e1e2e?style=for-the-badge&logo=arch-linux&logoColor=87CEEB" alt="Arch Linux" valign="middle" />
   </a>
   <a href="https://www.gnu.org/software/bash/">
-    <img src="https://img.shields.io/badge/Bash_Shell-1e1e2e?style=for-the-badge&logo=gnu-bash&logoColor=87CEEB" alt="Bash" />
+    <img src="https://img.shields.io/badge/Bash_Shell-1e1e2e?style=for-the-badge&logo=gnu-bash&logoColor=87CEEB" alt="Bash" valign="middle" />
   </a>
   <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/Git-1e1e2e?style=for-the-badge&logo=git&logoColor=87CEEB" alt="Git" />
+    <img src="https://img.shields.io/badge/Git-1e1e2e?style=for-the-badge&logo=git&logoColor=87CEEB" alt="Git" valign="middle" />
   </a>
 </p>
   <!--
