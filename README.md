@@ -7,7 +7,7 @@
 <table align="center">
   <tr>
     <td width="15%" align="center">
-      <img src="Assets/G.png" 
+      <img src="Assets/B.png" 
            width="180px" 
            style="border-radius: 8px; border: 1px solid #87CEEB;" />
     </td>
