@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=40a02b&center=true&vCenter=true&width=500&lines=Computerphile;Systems+Explorer;Linux+Enthusiast;BashScripting;Code+And+Programming" alt="Typing SVG" />
 </div>
 
----
-
 <table align="center">
   <tr>
     <td width="15%" align="center">
@@ -28,16 +26,12 @@
         🍀 <b>Mastering:</b> Vim, Linux, Shell
       </p>
 
----
-
 <div align="center">
   <code><b>$ grep -i "philosophy" /dev/brain</b></code><br>
   <p style="color: #40a02b; font-family: 'Fira Code', monospace; margin-top: 10px;">
     "First understand the computer, then teach it to work for you."
   </p>
 </div>
-
----
 
 <div align="center">
   <h3>🌳 Tech Stack</h3>
@@ -51,8 +45,6 @@
     <img src="https://skillicons.dev/icons?i=linux,bash,vim,git,github,arch&theme=dark" />
   </p>
 </div>
-
----
 
 <h3 align="center">🍃 GitHub Analytics</h3>
 
