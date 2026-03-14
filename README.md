@@ -1,30 +1,40 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00aaff&height=190&section=header&text=Kawaii,%20Bash&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" />
   <br><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00aaff&center=true&vCenter=true&width=500&lines=Computerphile;Systems+Explorer;Linux+Enthusiast;Bash+Scripting;Code+And+Programming" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0077ff&center=true&vCenter=true&width=500&lines=Computerphile;Systems+Explorer;Linux+Enthusiast;Bash+Scripting;Code+And+Programming" alt="Typing SVG" />
 </div>
+
+---
 
 <table align="center" style="border: none;">
   <tr>
     <td width="20%" align="center">
       <img src="Assets/G.png" 
            width="180px" 
-           style="border-radius: 50%; border: 2px solid #00aaff; box-shadow: 0 0 15px rgba(0, 170, 255, 0.4);" />
+           style="border-radius: 12px; border: 2px solid #00aaff; box-shadow: 0 0 20px rgba(0, 170, 255, 0.3);" />
     </td>
     <td width="80%" valign="middle">
-      <h3 style="color: #00aaff; margin-top: 0;">🔹 About Me</h3>
+      <h3 style="color: #00aaff; margin-top: 0;">👤 About Me</h3>
       <p>
         I am a dedicated <b>Technology Enthusiast</b> with a deep-seated passion for understanding computing systems at their core. 
-        I focus on mastering <code style="color: #00aaff; background: #1e1e2e;">Bash</code> to build <b>efficient, automated daily workflows</b> that enhance productivity and system performance.
+        I focus on mastering <code style="color: #00aaff; background: #1e1e2e;">Bash</code> to build <b>efficient, automated daily workflows</b>.
       </p>
       <p>
-        🚀 <b>Focus:</b> System Internals & Bash Scripting & Linux/Unix <br>
+        🌀 <b>Focus:</b> System Internals & Bash Scripting & Linux/Unix <br>
         🎯 <b>Objective:</b> Optimizing Operations Through Technical Automation <br>
         🛠️ <b>Mastering:</b> Vim, Linux, Shell
       </p>
     </td>
   </tr>
 </table>
+
+---
+
+### 🔹 Random Dev Quote
+> [!NOTE]
+> **"The best way to predict the future is to implement it."** > *— David Heinemeier Hansson*
+
+---
 
 <div align="center">
   <code><b>$ grep -i "philosophy" /dev/brain</b></code><br>
@@ -34,7 +44,7 @@
 </div>
 
 <div align="center">
-  <h3>⚡ Tech Stack</h3>
+  <h3>🧊 Tech Stack</h3>
   <p align="center">
     <a href="https://wiki.archlinux.org/title/Main_page"><img src="https://img.shields.io/badge/Arch_Linux-11111b?style=for-the-badge&logo=arch-linux&logoColor=00aaff" /></a>
     <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://img.shields.io/badge/Bash_Shell-11111b?style=for-the-badge&logo=gnu-bash&logoColor=00aaff" /></a>
@@ -46,7 +56,7 @@
   </p>
 </div>
 
-<h3 align="center">📊 GitHub Analytics</h3>
+<h3 align="center">📈 GitHub Analytics</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KawaiiBash&bg_color=0d1117&title_color=00aaff&text_color=cdd6f4&icon_color=00aaff&show_icons=true&count_private=true&hide_border=true" height="170px" />
